@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff4b54c0-d596-4f84-a173-b7641f59789e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/cleaned_temp(AutoRecovered).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/raw_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/temp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/three_days_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseRationale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/September/sept_cleaned_temp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/September/sept_outliers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/September/temp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Clean.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/api_requests_for_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api_calls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dvi_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statistical_analysis.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WDWxUP23GRkEi0ty6wlzcfizBA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoad\IdeaProjects\BaseRationale\data" />
+      <recent name="C:\Users\ayoad\IdeaProjects\BaseRationale" />
+      <recent name="C:\Users\ayoad\IdeaProjects\BaseRationale\data\August" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff4b54c0-d596-4f84-a173-b7641f59789e" name="Changes" comment="" />
+      <created>1696267890440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696267890440</updated>
+      <workItem from="1696267892454" duration="952000" />
+      <workItem from="1696268880519" duration="3325000" />
+      <workItem from="1696371120035" duration="610000" />
+      <workItem from="1696408199434" duration="33000" />
+      <workItem from="1696408252526" duration="25882000" />
+      <workItem from="1696514726404" duration="16882000" />
+      <workItem from="1696572161639" duration="598000" />
+      <workItem from="1696685360741" duration="4404000" />
+      <workItem from="1696752408909" duration="2052000" />
+      <workItem from="1696853744932" duration="148000" />
+      <workItem from="1699438326864" duration="32000" />
+      <workItem from="1704217841516" duration="1339000" />
+      <workItem from="1704534823478" duration="690000" />
+      <workItem from="1704823221527" duration="6372000" />
+      <workItem from="1705094428493" duration="3127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BaseRationale$next.coverage" NAME="next Coverage Results" MODIFIED="1705115738937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/BaseRationale$main.coverage" NAME="main Coverage Results" MODIFIED="1705115968606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/BaseRationale$api_requests_for_data.coverage" NAME="api_requests_for_data Coverage Results" MODIFIED="1696437941598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/BaseRationale$data_preprocessing.coverage" NAME="data_preprocessing Coverage Results" MODIFIED="1696320885354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/BaseRationale$data_preparation.coverage" NAME="data_preparation Coverage Results" MODIFIED="1696686535222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/BaseRationale$statistical_analysis.coverage" NAME="statistical_analysis Coverage Results" MODIFIED="1696496955103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
